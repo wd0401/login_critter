@@ -1,6 +1,8 @@
 # Login Critter Demo - 高级登录小怪兽动画演示
 
 这是一个基于 **Next.js** 和 **Framer Motion** 构建的高级登录交互演示项目。它参考了 CareerCompass 的视觉风格，并在此基础上实现了更加灵动、具有物理质感的角色动画。
+<img width="1943" height="977" alt="image" src="https://github.com/user-attachments/assets/d21db35d-b9dd-416a-9384-de2c2379ea67" />
+
 
 ## ✨ 核心特性
 
