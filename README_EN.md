@@ -1,6 +1,7 @@
 # Login Critter Demo - Advanced Animation Experience
 
 An advanced login interaction demo built with **Next.js 14** and **Framer Motion**. Inspired by CareerCompass, this project features fluid, physics-based character animations that react to user inputs in real-time.
+<img width="1943" height="977" alt="image" src="https://github.com/user-attachments/assets/0ee47c5b-ee85-4126-ae63-de871907bfc5" />
 
 [简体中文 README](./README.md)
 
