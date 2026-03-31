@@ -54,6 +54,3 @@ npm run dev
 3. **点击眼睛图标**：角色会迅速缩回并看向左侧，展现出“我在保护你的隐私”的行为逻辑。
 4. **随机眨眼**：即使你不操作，小怪兽们也会偶尔眨眨眼。
 
----
-
-Designed with ❤️ using Google Deepmind Advanced Agentic Coding.
