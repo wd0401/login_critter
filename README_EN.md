@@ -57,5 +57,3 @@ Open [http://localhost:3000](http://localhost:3000) in your browser to preview.
 4. **Natural Idle**: Even when idle, the critters will blink their eyes naturally.
 
 ---
-
-Designed with ❤️ using Google Deepmind Advanced Agentic Coding.
